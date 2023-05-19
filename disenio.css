@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(86, 170, 170);
+
+}
+p {
+    margin: 0px;
+    width: 150px;
+    border-style: solid;
+    background-color: black;
+    font-family: 'Franklin Gothic Medium';
+    font-size: larger;
+    color: azure;
+    text-align: center;
+}
